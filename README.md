@@ -8,7 +8,7 @@
 > **"Architect of Digital Worlds"**  
 > A high-performance, visually stunning personal portfolio built with a focus on modern UI/UX principles, featuring interactive 3D components, celestial animations, and glassmorphism.
 
-[**Live Demo**](https://sai-web-canvas.vercel.app/)
+<a href="https://sai-web-canvas.vercel.app/" target="_blank">**Live Demo**</a>
 
 ---
 
